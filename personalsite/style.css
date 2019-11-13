@@ -1,0 +1,114 @@
+*{
+    font-family: helvetica;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+/*    eseential to add these particular presets*/
+}
+/*Homepage*/
+.jumbo1{
+    background-image:url(assets/img/flowerpot.jpg);
+    background-size:cover;
+    background-blend-mode:multiply;
+    text-align: center;
+    color:#FBF2DD;
+/*    font-family: ;*/
+}
+
+.btn1{
+    background-color: #5D639C;
+    color: #FBF2DD;
+}
+
+.propic{
+    max-width: 300px;
+    max-height: 350px;
+    border-radius: 50%;
+}
+.aboutrow{
+    background-color: #5D639C;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.abouttext{
+    color: #FBF2DD;
+}
+
+.trade{
+    text-align: center;
+    background-color: #5D639C;
+    color: #FBF2DD;
+}
+.carousel-item{
+    max-height: 156px;
+}
+
+.col-8{
+    align-content: center;
+    align-items: center;
+}
+
+/*About Me Styling*/
+.jumbo2{
+    background-image:url(assets/img/waterfall.jpeg);
+    background-size:cover;
+    text-align: center;
+    color:#FBF2DD;
+}
+
+.btn2{
+    background-color: #BFBEBE;
+    color: #1A1713;
+}
+
+.dropmenu{
+    background-color: #BFBEBE;
+    color: #1A1713;
+}
+.trade2{
+    text-align: center;
+    background-color:#BFBEBE;
+    color: #1A1713;
+}
+.slidetext{
+    color:#BFBEBE;
+}
+
+/*Contact Me Styling*/
+.jumbo3{
+    background-image:url(assets/img/citypier.jpg);
+    background-size:cover;
+    text-align: center;
+    color:white;
+}
+.finprom{
+    color: white;
+}
+.contactrow{
+    background-color: #DAD4DB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.colpic{
+    max-width: 300px;
+    max-height: 350px;
+}
+.centered{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.contbtn{
+    background-color:#5E5048;
+    color: #D5D6D4;
+}
+.conttext{
+    color: #5E5048;
+}
+.trade3{
+    text-align: center;
+    background-color:#5E5048;
+    color:#D5D6D4;
+}
